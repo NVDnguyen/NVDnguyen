@@ -10,12 +10,13 @@
 </picture>
 
 
-## 🌐Socials
+## 🌐 Socials
 <p > <a href="https://www.linkedin.com/in/do-nguyen-0328b5281/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:ryosan192@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
 
 
+<img src="https://github.com/NVDnguyen/NVDnguyen/blob/main/Developer.gif" alt="developer gif"  height="45px">
 
-## <img src="https://github.com/NVDnguyen/NVDnguyen/blob/main/Developer.gif" alt="developer gif"  height="30px"> Languages 
+## 🖥️ Languages 
 <!-- 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) 
