@@ -1,9 +1,5 @@
 # 💫About Me :
-I'm a third-year FPT University student majoring in Internet of Things. 
-Now I am working in FPT Software with an intern automotive position. 
-However, I also studied embedded systems with microcontrollers in FSoft after attending some competitions
-about IoT.
-And finally, IoT is my path to passion and work
+My passion for electronics drives me to create and innovate, always looking for ways to merge technology with creativity. Building things and exploring IoT excites me, and I believe this path will lead me to fulfill my true passion for technology.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/do-nguyen-0328b5281/) 
