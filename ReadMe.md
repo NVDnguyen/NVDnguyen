@@ -1,5 +1,5 @@
 # 💫About Me :
-My passion for electronics drives me to create and innovate, always looking for ways to merge technology with creativity. Building things and exploring IoT excites me, and I believe this path will lead me to fulfill my true passion for technology.
+My passion for electronics drives me to create and innovate, always looking for ways to merge technology with creativity. Building things and exploring IoT excite me, and I believe this path will lead me to fulfill my true passion for technology.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/do-nguyen-0328b5281/) 
@@ -13,3 +13,6 @@ My passion for electronics drives me to create and innovate, always looking for 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NVDnguyen&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+a+Software+Engineer;I+love+coding+and+open+source!)](https://git.io/typing-svg)
