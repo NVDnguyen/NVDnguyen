@@ -1,7 +1,7 @@
 
 
 # 💫About Me :
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+a+Embedded+Software+Engineer;I+love+coding+and+open+source!;My+passion+for+electronics+drives+me+to+create+and+innovate;Always+looking+for+ways+to+merge+technology+with+creativity;Building+things+and+exploring+IoT+excites+me;I+believe+this+path+will+lead+me+to+my+true+passion+for+technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+a+Embedded+Software+Engineer;I+love+electronics+and+programming!;My+passion+for+electronics+drives+me+to+create+and+innovate+,+always+looking+for+ways+to+merge+technology+with+creativity;Building+things+and+exploring+IoT+excites+me;I+believe+this+path+will+lead+me+to+my+true+passion+for+technology)](https://git.io/typing-svg)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/do-nguyen-0328b5281/) 
