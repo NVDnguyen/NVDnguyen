@@ -1,9 +1,9 @@
 # 💫About Me :
-I'm a third-year student at FPT University, majoring in Internet of Things. 
+I'm a third-year FPT University student majoring in Internet of Things. 
 Now I am working in FPT Software with an intern automotive position. 
-But I also studied embedded systems with microcontrollers in FSoft after attending some competition
+However, I also studied embedded systems with microcontrollers in FSoft after attending some competitions
 about IoT.
-And finally IoT is my path for passion and work
+And finally, IoT is my path to passion and work
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Do Nguyen) 
