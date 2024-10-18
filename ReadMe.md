@@ -25,9 +25,12 @@
 
 
 ## ⚡Hardware
-<img src="https://www.learnrobotics.org/wp-content/uploads/2019/10/Raspbery-Pi-icon-247x300.png" alt="Raspberry Pi Icon" width="30"/>
-<img src="https://www.learnrobotics.org/wp-content/uploads/2019/10/Arduino-Uno-icon-150x150.png" alt="Raspberry Pi Icon" width="30"/>   
-<img src="https://w7.pngwing.com/pngs/369/534/png-transparent-espressif-systems-hd-logo-thumbnail.png" alt="Raspberry Pi Icon" width="30"/>
+<div style="display: flex; align-items: center;">
+    <img src="https://www.learnrobotics.org/wp-content/uploads/2019/10/Raspbery-Pi-icon-247x300.png" alt="Raspberry Pi Icon" width="30" style="margin-right: 5px;"/>
+    <img src="https://www.learnrobotics.org/wp-content/uploads/2019/10/Arduino-Uno-icon-150x150.png" alt="Arduino Icon" width="30" style="margin-right: 5px;"/>
+    <img src="https://w7.pngwing.com/pngs/369/534/png-transparent-espressif-systems-hd-logo-thumbnail.png" alt="Espressif Icon" width="30"/>
+</div>
+
 
 
 
