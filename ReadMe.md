@@ -23,7 +23,7 @@
 ![Python](https://img.shields.io/badge/-Python-FFD700?style=flat-square&logo=Python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) -->
 
-<p align="center" >
+<p  >
   <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NVDnguyen&&show_icons=true&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true&layout=compact&custom_title=Languages%20I%20Use&langs_count=8" alt="NVDnguyen"/></a>
 </p>
 
@@ -42,7 +42,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=NVDnguyen&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NVDnguyen&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NVDnguyen&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NVDnguyen&icon=0&color=0)](https://visitcount.itsvg.in)
