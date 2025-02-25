@@ -39,10 +39,6 @@
 
 
 
-## <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/github.svg" alt="GitHub"></a> &nbsp;&nbsp;GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=NVDnguyen&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NVDnguyen&theme=radical&hide_border=false)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NVDnguyen&icon=0&color=0)](https://visitcount.itsvg.in)
