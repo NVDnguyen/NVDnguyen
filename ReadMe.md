@@ -10,10 +10,6 @@
 </picture>
 
 
-## 🌐 Socials
-<p > <a href="https://www.linkedin.com/in/do-nguyen-0328b5281/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:ryosan192@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
-
-
 <img src="https://github.com/NVDnguyen/NVDnguyen/blob/main/Developer.gif" alt="developer gif"  height="45px">
 
 ## 🖥️ Languages 
